@@ -1,5 +1,5 @@
 # WindowsShortcut
  All-in-one windows controls
-![alt text](https://imgur.com/YtOqPF0)
+![alt text](https://i.imgur.com/YtOqPF0.png)
 
 
