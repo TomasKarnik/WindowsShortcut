@@ -1,0 +1,12 @@
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\bin\Debug\WindowsShortcut.exe.config
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\bin\Debug\WindowsShortcut.exe
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\bin\Debug\WindowsShortcut.pdb
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\bin\Debug\MaterialSkin.dll
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\obj\Debug\WindowsShortcut.csprojAssemblyReference.cache
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\obj\Debug\WindowsShortcut.Form1.resources
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\obj\Debug\WindowsShortcut.Properties.Resources.resources
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\obj\Debug\WindowsShortcut.csproj.GenerateResource.cache
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\obj\Debug\WindowsShortcut.csproj.CoreCompileInputs.cache
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\obj\Debug\WindowsShortcut.csproj.CopyComplete
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\obj\Debug\WindowsShortcut.exe
+E:\PROJECTS\WindowsShortcuts\WindowsShortcut\WindowsShortcut\obj\Debug\WindowsShortcut.pdb
